@@ -1,3 +1,7 @@
+/*
+
+Write a complete C++ program to represent a class of a circle, give it an appropriate attributes and methods? i.e. radius, PI, area( ), circumference( ) */
+
 #include <iostream>
 using namespace std;
 
